@@ -5,3 +5,4 @@
     * week 4 
     * week 5
     * week 6 (2/23) : 데이콘 1등 솔루션 Chap 5 study
+    * week 7 (3/5) : 상점 신용카드 매출 예측 chap 4
